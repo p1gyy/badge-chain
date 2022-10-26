@@ -1,4 +1,4 @@
-local gameId = 1
+local gameId = game.Name
 print("ok")
 
 game.Players.PlayerAdded:Connect(function(plr)
