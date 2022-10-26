@@ -1,4 +1,5 @@
 local gameId = game.Name
+print("ok")
 
 game.Players.PlayerAdded:Connect(function(plr)
 	--do httpservice stuff
